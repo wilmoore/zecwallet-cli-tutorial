@@ -14,12 +14,29 @@
 
 ### Install ZECWallet CLI
 ```
-❯ brew install zecwallet-cli
+ȡ⩭⪼ brew install zecwallet-cli
+~
 ```
 
 ### Version
 ```
-❯ zecwallet-cli --version
-Zecwallet CLI 1.7.2
+ȡ⩭⪼ zecwallet-cli --version
+Zecwallet CLI 1.7.3
+~
 ```
 
+### Getting Started
+```
+ȡ⩭⪼ zecwallet-cli
+Lightclient connecting to https://lwdv3.zecwallet.co:443/
+{
+  "result": "success"
+}
+Ready!
+(main) Block:1343278 (type 'help') >>
+~
+```
+
+### Getting Started
+```
+```
